@@ -184,7 +184,6 @@ body {
 
 .content {
     padding: 30px;
-
 }
 
 .content h2 {
@@ -202,6 +201,7 @@ body {
 .content p {
     font-size: 16px;
     margin-bottom: 20px;
+    text-align: justify;
 }
 
 .footer {
