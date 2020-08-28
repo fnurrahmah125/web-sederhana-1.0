@@ -1,2 +1,2 @@
 # web-sederhana-1.0
-Latihan CSS box model
+Latihan HTML dan CSS
