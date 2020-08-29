@@ -142,9 +142,18 @@ body {
     color: #434a54;
 }
 
+.top-bar {
+    position: fixed;
+    height: 30px;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: #fc6e51;
+}
+
 .container {
     width: 960px;
-    margin: auto;
+    margin: 50px auto;
     background-color: #e6e9ed;
 }
 
