@@ -1,2 +1,2 @@
 # web-sederhana-1.0
-Latihan HTML dan CSS
+Latihan membuat web sederhana menggunakan HTML dan CSS
